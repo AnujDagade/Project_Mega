@@ -1,0 +1,4 @@
+/home/drcool/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/drcool/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/ninja/linux/ninja -G Ninja /home/drcool/CLionProjects/Project_Mega
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/drcool/CLionProjects/Project_Mega/cmake-build-debug
